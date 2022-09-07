@@ -90,7 +90,7 @@ def main_apv():
         print ("")
         print ("")
         print ("")
-        print('\x1b[1;92m'            If You Subscribe your Key 🗝️ !")
+        print('\x1b[1;92m'            If You your Key 🗝️ !")
         raw_input("  then Exit The Termux And Put The Commond And run Again Thanks ❣️")
         os.system("xdg-open https://wa.me/+9660531382117")
         
